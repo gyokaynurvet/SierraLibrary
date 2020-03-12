@@ -174,7 +174,7 @@ License
 
 Copyright (c) [Gyokay Nurvet Mustafa](https://gyokay.cloud/). All rights reserved.
 
-Licensed under the [MIT](https://github.com/gyokaynurvet/Sierra-Library/blob/master/LICENSE) License.
+Licensed under the [MIT](https://github.com/gyokaynurvet/SierraLibrary/blob/master/LICENSE) License.
 
 **Free Software**
 
