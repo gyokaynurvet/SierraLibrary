@@ -12,8 +12,7 @@
 call using [Excel-DNA](https://excel-dna.net/)
 
 
-[![Excel custom functions](https://freeimage.host/i/screen.JJRMzB)]
-(https://youtu.be/HxxHATdl4YQ "Excel custom functions")
+[![Excel custom functions](https://freeimage.host/i/screen.JJRMzB)](https://youtu.be/HxxHATdl4YQ "Excel custom functions")
 
 
 # Build
