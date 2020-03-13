@@ -12,9 +12,6 @@
 call using [Excel-DNA](https://excel-dna.net/)
 
 
-[![Excel custom functions](https://iili.io/JJRMzB.jpg)](https://youtu.be/HxxHATdl4YQ "Excel custom functions")
-
-
 [![](http://img.youtube.com/vi/HxxHATdl4YQ/0.jpg)](http://www.youtube.com/watch?v=HxxHATdl4YQ "Excel custom functions")
 
 
